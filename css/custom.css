@@ -3,7 +3,11 @@ button {
 	position: fixed;
 	margin-top: 100px;
 	}
+h1 {text-align: center;}
+h3 {font-size: 40px; background-color: green;text-align: center;}
 
-.btn-fb {background: #3B5998; color: white;}
-.btn-tw {background: #1DA1F2; color: white; top: 100px;}
+.btn-fb {background-color: #3B5998; color: white;}
+.btn-fb:hover {background-color: green;}
+.btn-tw {background-color: #1DA1F2; color: white; top: 100px; }
+.btn-tw:hover {background-color: green;}
 .row {margin-left: 50px;}
